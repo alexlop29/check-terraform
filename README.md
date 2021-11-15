@@ -23,9 +23,11 @@ For the scope of this demonstration, we will propose a solution for the followin
 - August 2021: Misconfigured S3 bucket exposes the PII (e.g. phone numbers, emails) of over three million senior citizens. <sup>8</sup>
 - July 2021: Misconfigured S3 bucket lacks authentication. ~9000 customers invoices were exposed. <sup>9</sup>
 
-# Proposed Solution: Checkov
+# Proposal
 
 > Checkov is a static code analysis tool for infrastructure-as-code. It automates scanning cloud infrastructure and detects security and compliance misconfigurations. <sup>10</sup>
+
+Our team proposes integrating Checkov scanning into Notarize's Github repositories. It will allow us to detect misconfigurations prior to deploying to production, shifting security left in the Sytems Development Life Cycle (SDLC). 
 
 # References
 1. https://owasp.org/Top10/
