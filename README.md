@@ -29,7 +29,7 @@ For the scope of this demonstration, we will propose a solution for the followin
 
 Our team proposes integrating Checkov scanning directly into Github repositories. It will allow us to detect misconfigurations prior to deploying to production, shifting security left in the Sytems Development Life Cycle (SDLC). 
 
-<img width="705" alt="Screen Shot 2021-11-15 at 6 45 12 AM" src="https://user-images.githubusercontent.com/34544005/141776623-2affe0f5-b8cf-4868-b8db-9c390e3a512f.png">
+<img height="600" width="705" alt="Screen Shot 2021-11-15 at 6 45 12 AM" src="https://user-images.githubusercontent.com/34544005/141776623-2affe0f5-b8cf-4868-b8db-9c390e3a512f.png">
 Credit: smartsheet <sup>11</sup>
 
 
