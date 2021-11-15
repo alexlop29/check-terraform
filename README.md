@@ -36,7 +36,7 @@ Credit: smartsheet <sup>11</sup>
 
 - PR #1: Misconfigured S3 Bucket - https://github.com/alexlop29/check-terraform/pull/2
 - PR #2: Misconfigured Database - https://github.com/alexlop29/check-terraform/pull/3
-- PR #3: Misconfigured Server - 
+- PR #3: Misconfigured Server - https://github.com/alexlop29/check-terraform/pull/5
 
 # References
 1. https://owasp.org/Top10/
