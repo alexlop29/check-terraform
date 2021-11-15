@@ -24,13 +24,13 @@ For the scope of this demonstration, we will propose a solution for the followin
 
 
 # References
-- 1 https://owasp.org/Top10/
-- 2 https://owasp.org/Top10/A01_2021-Broken_Access_Control/
-- 3 https://owasp.org/Top10/A02_2021-Cryptographic_Failures/
-- 4 https://owasp.org/Top10/A04_2021-Insecure_Design/
-- 5 https://owasp.org/Top10/A05_2021-Security_Misconfiguration/
-- 6 https://owasp.org/Top10/A09_2021-Security_Logging_and_Monitoring_Failures/
-- 7 https://cisomag.eccouncil.org/misconfigured-amazon-bucket-exposes-personal-data-of-millions-of-senior-citizens/
+1. https://owasp.org/Top10/
+2. https://owasp.org/Top10/A01_2021-Broken_Access_Control/
+3. https://owasp.org/Top10/A02_2021-Cryptographic_Failures/
+4. https://owasp.org/Top10/A04_2021-Insecure_Design/
+5. https://owasp.org/Top10/A05_2021-Security_Misconfiguration/
+6. https://owasp.org/Top10/A09_2021-Security_Logging_and_Monitoring_Failures/
+7. https://cisomag.eccouncil.org/misconfigured-amazon-bucket-exposes-personal-data-of-millions-of-senior-citizens/
 
 
 Over the course of the demonstration, we will:
