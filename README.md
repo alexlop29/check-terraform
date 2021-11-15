@@ -1,7 +1,7 @@
 # Introduction
-In recent years, the cybersecurity community has seen a shift from attacks on application code to the systems the code runs on. 
+In recent years, the cybersecurity landscape shifted from threats involving application code to threats on information systems. 
 
-OWASP, a prominent leader in the cybersecurity industry, showcases this change in penetration testing methodologies with the release of their Top 10 vulnerabilities for 2021. 
+OWASP, a prominent figure in cybersecurity research, showcases this change in penetration testing methodologies in the Top 10 for 2021. 
 
 <img width="1694" alt="Screen Shot 2021-11-15 at 5 09 33 AM" src="https://user-images.githubusercontent.com/34544005/141763078-f1012189-f267-4fde-b70a-d8a3530616fc.png">
 Credit: OWASP Foundation <sup>1</sup>
