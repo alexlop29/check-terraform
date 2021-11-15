@@ -1,7 +1,7 @@
 # Introduction
 As technology evolves, so have malicious users (i.e. hackers). 
 
-In recent years, the cybersecurity community has seen a shift from software-based threats to hardware-based threats. 
+In recent years, the cybersecurity community has seen a shift from attacks on application code to the systems the code runs on. 
 
 OWASP, a prominent leader in the cybersecurity industry, showcases this change in penetration testing methodolgies with the release of their Top 10 vulnerabilties for 2021. 
 
