@@ -19,8 +19,9 @@ For the scope of this demonstration, we will propose a solution for the followin
 
 # Examples
 
-- August 2021: Misconfigured S3 bucket exposes the PII (e.g. phone numbers, emails) of over three million senior citizens. <sup>7</sup>
-- July 2021: Misconfigured S3 bucket lacks authentication. ~9000 customers invoices were exposed. <sup>8</sup>
+- October 2021: Server misconfiguration exposes proprietary source code and revenue reports. <sup>7</sup>
+- August 2021: Misconfigured S3 bucket exposes the PII (e.g. phone numbers, emails) of over three million senior citizens. <sup>8</sup>
+- July 2021: Misconfigured S3 bucket lacks authentication. ~9000 customers invoices were exposed. <sup>9</sup>
 
 
 # References
@@ -30,8 +31,9 @@ For the scope of this demonstration, we will propose a solution for the followin
 4. https://owasp.org/Top10/A04_2021-Insecure_Design/
 5. https://owasp.org/Top10/A05_2021-Security_Misconfiguration/
 6. https://owasp.org/Top10/A09_2021-Security_Logging_and_Monitoring_Failures/
-7. https://cisomag.eccouncil.org/misconfigured-amazon-bucket-exposes-personal-data-of-millions-of-senior-citizens/
-8. https://www.zdnet.com/article/artwork-archive-cloud-storage-misconfiguration-exposed-user-data-revenue-records/
+7. https://thehackernews.com/2021/10/twitch-suffers-massive-125gb-data-and.html
+8. https://cisomag.eccouncil.org/misconfigured-amazon-bucket-exposes-personal-data-of-millions-of-senior-citizens/
+9. https://www.zdnet.com/article/artwork-archive-cloud-storage-misconfiguration-exposed-user-data-revenue-records/
 
 Over the course of the demonstration, we will:
 - Introduce the Problem
