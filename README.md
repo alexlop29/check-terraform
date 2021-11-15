@@ -1,7 +1,7 @@
 # Introduction
 In recent years, the cybersecurity community has seen a shift from attacks on application code to the systems the code runs on. 
 
-OWASP, a prominent leader in the cybersecurity industry, showcases this change in penetration testing methodolgies with the release of their Top 10 vulnerabilties for 2021. 
+OWASP, a prominent leader in the cybersecurity industry, showcases this change in penetration testing methodologies with the release of their Top 10 vulnerabilities for 2021. 
 
 <img width="1694" alt="Screen Shot 2021-11-15 at 5 09 33 AM" src="https://user-images.githubusercontent.com/34544005/141763078-f1012189-f267-4fde-b70a-d8a3530616fc.png">
 Credit: OWASP Foundation <sup>1</sup>
@@ -27,7 +27,7 @@ For the scope of this demonstration, we will propose a solution for the followin
 
 > Checkov is a static code analysis tool for infrastructure-as-code. It automates scanning cloud infrastructure and detects security and compliance misconfigurations. <sup>10</sup>
 
-Our team proposes integrating Checkov scanning directly into Github repositories. It will allow us to detect misconfigurations prior to deploying to production, shifting security left in the Sytems Development Life Cycle (SDLC). 
+Our team proposes integrating Checkov scanning directly into Github repositories. It will allow us to detect misconfigurations before deploying to production, shifting security left in the Sytems Development Life Cycle (SDLC).
 
 <img height="600" width="705" alt="Screen Shot 2021-11-15 at 6 45 12 AM" src="https://user-images.githubusercontent.com/34544005/141776623-2affe0f5-b8cf-4868-b8db-9c390e3a512f.png">
 Credit: smartsheet <sup>11</sup>
@@ -40,7 +40,7 @@ Credit: smartsheet <sup>11</sup>
 
 ## Benefits
 
-- Detect misconfigurations prior to deployment
+- Detect misconfigurations before deployment
 - Provides distributed monitoring
 - Allows custom rules
 - Automates compliance reports
