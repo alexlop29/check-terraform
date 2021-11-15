@@ -8,7 +8,8 @@ OWASP, a prominent leader in the cybersecurity industry, showcases this change i
 <img width="1694" alt="Screen Shot 2021-11-15 at 5 09 33 AM" src="https://user-images.githubusercontent.com/34544005/141763078-f1012189-f267-4fde-b70a-d8a3530616fc.png">
 Credit: OWASP Foundation
 
-For the scope of this demonstration, we propose a solution for the following vulnerabilties:
+
+For the scope of this demonstration, we will propose a solution for the following vulnerabilties:
 - A01:2021 – Broken Access Control - Violation of the principle of least privilege
 - A02:2021 – Cryptographic Failures - Is any data transmitted in clear text? Is encryption not enforced?
 - A04:2021 – Insecure Design -  Incorrect Privilege Assignment, Clear Text Storage of Sensitive Data
