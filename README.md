@@ -27,7 +27,11 @@ For the scope of this demonstration, we will propose a solution for the followin
 
 > Checkov is a static code analysis tool for infrastructure-as-code. It automates scanning cloud infrastructure and detects security and compliance misconfigurations. <sup>10</sup>
 
-Our team proposes integrating Checkov scanning into Notarize's Github repositories. It will allow us to detect misconfigurations prior to deploying to production, shifting security left in the Sytems Development Life Cycle (SDLC). 
+Our team proposes integrating Checkov scanning directly into Github repositories. It will allow us to detect misconfigurations prior to deploying to production, shifting security left in the Sytems Development Life Cycle (SDLC). 
+
+<img width="705" alt="Screen Shot 2021-11-15 at 6 45 12 AM" src="https://user-images.githubusercontent.com/34544005/141776623-2affe0f5-b8cf-4868-b8db-9c390e3a512f.png">
+Credit: smartsheet <sup>11</sup>
+
 
 # References
 1. https://owasp.org/Top10/
@@ -40,6 +44,7 @@ Our team proposes integrating Checkov scanning into Notarize's Github repositori
 8. https://cisomag.eccouncil.org/misconfigured-amazon-bucket-exposes-personal-data-of-millions-of-senior-citizens/
 9. https://www.zdnet.com/article/artwork-archive-cloud-storage-misconfiguration-exposed-user-data-revenue-records/
 10. https://github.com/bridgecrewio/checkov
+11. https://www.smartsheet.com/system-development-life-cycle-guide
 
 Over the course of the demonstration, we will:
 - Introduce the Problem
