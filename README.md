@@ -38,6 +38,13 @@ Credit: smartsheet <sup>11</sup>
 - PR #2: Misconfigured Database - https://github.com/alexlop29/check-terraform/pull/3
 - PR #3: Misconfigured Server - https://github.com/alexlop29/check-terraform/pull/5
 
+## Benefits
+
+- Detect misconfigurations prior to deployment
+- Provides distributed monitoring
+- Allows custom rules
+- Automates compliance reports
+
 # References
 1. https://owasp.org/Top10/
 2. https://owasp.org/Top10/A01_2021-Broken_Access_Control/
