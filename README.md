@@ -9,6 +9,7 @@ OWASP, a prominent leader in the cybersecurity industry, showcases this change i
 Credit: OWASP Foundation
 
 
+
 For the scope of this demonstration, we will propose a solution for the following vulnerabilties:
 - A01:2021 – Broken Access Control - Violation of the principle of least privilege
 - A02:2021 – Cryptographic Failures - Is any data transmitted in clear text? Is encryption not enforced?
