@@ -32,7 +32,7 @@ Our team proposes integrating Checkov scanning directly into Github repositories
 <img height="600" width="705" alt="Screen Shot 2021-11-15 at 6 45 12 AM" src="https://user-images.githubusercontent.com/34544005/141776623-2affe0f5-b8cf-4868-b8db-9c390e3a512f.png">
 Credit: smartsheet <sup>11</sup>
 
-## Demonstration
+## Demo
 
 - PR #1: Misconfigured S3 Bucket - https://github.com/alexlop29/check-terraform/pull/2
 - PR #2: Misconfigured Database - https://github.com/alexlop29/check-terraform/pull/3
