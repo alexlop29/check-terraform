@@ -17,7 +17,7 @@ For the scope of this demonstration, we will propose a solution for the followin
 >- A09:2021 – Security Logging and Monitoring Failures <sup>6</sup>
 
 
-# Examples
+## Recent Data Breaches
 
 - October 2021: Server misconfiguration exposes proprietary source code and revenue reports. <sup>7</sup>
 - August 2021: Misconfigured S3 bucket exposes the PII (e.g. phone numbers, emails) of over three million senior citizens. <sup>8</sup>
