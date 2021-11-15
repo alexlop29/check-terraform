@@ -57,8 +57,3 @@ Credit: smartsheet <sup>11</sup>
 9. https://www.zdnet.com/article/artwork-archive-cloud-storage-misconfiguration-exposed-user-data-revenue-records/
 10. https://github.com/bridgecrewio/checkov
 11. https://www.smartsheet.com/system-development-life-cycle-guide
-
-Over the course of the demonstration, we will:
-- Introduce the Problem
-- Propose a Solution
-- Showcase several examples
