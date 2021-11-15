@@ -8,7 +8,7 @@ Credit: OWASP Foundation <sup>1</sup>
 
 
 
-For the scope of this demonstration, we will propose a solution for the following vulnerabilties:
+For the scope of this demonstration, we will propose a solution for the following:
 
 > - A01:2021 – Broken Access Control - Violation of the principle of least privilege <sup>2</sup>
 > - A02:2021 – Cryptographic Failures - Is any data transmitted in clear text? Is encryption not enforced? <sup>3</sup>
