@@ -24,13 +24,13 @@ For the scope of this demonstration, we will propose a solution for the followin
 
 
 # References
-<sup>1</sup> https://owasp.org/Top10/
-<sup>2</sup> https://owasp.org/Top10/A01_2021-Broken_Access_Control/
-<sup>3</sup> https://owasp.org/Top10/A02_2021-Cryptographic_Failures/
-<sup>4</sup> https://owasp.org/Top10/A04_2021-Insecure_Design/
-<sup>5</sup> https://owasp.org/Top10/A05_2021-Security_Misconfiguration/
-<sup>6</sup> https://owasp.org/Top10/A09_2021-Security_Logging_and_Monitoring_Failures/
-<sup>7</sup> https://cisomag.eccouncil.org/misconfigured-amazon-bucket-exposes-personal-data-of-millions-of-senior-citizens/
+<sup>1</sup> - https://owasp.org/Top10/
+<sup>2</sup> - https://owasp.org/Top10/A01_2021-Broken_Access_Control/
+<sup>3</sup> - https://owasp.org/Top10/A02_2021-Cryptographic_Failures/
+<sup>4</sup> - https://owasp.org/Top10/A04_2021-Insecure_Design/
+<sup>5</sup> - https://owasp.org/Top10/A05_2021-Security_Misconfiguration/
+<sup>6</sup> - https://owasp.org/Top10/A09_2021-Security_Logging_and_Monitoring_Failures/
+<sup>7</sup> - https://cisomag.eccouncil.org/misconfigured-amazon-bucket-exposes-personal-data-of-millions-of-senior-citizens/
 
 
 Over the course of the demonstration, we will:
